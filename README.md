@@ -7,7 +7,7 @@
 
 [**Data Sheet**](http://www.nxp.com/docs/en/data-sheet/MPC5748G.pdf)
 
-[**Reference Manual**](http://www.nxp.com/docs/en/reference-manual/MPC5748GRM.pdf)
+[**Reference Manual**](http://www.nxp.com/docs/en/reference-manual/MPC5748GRM.pdf)pdftk
 
 - 2 x 160 MHz Power Architecture® e200Z4 Dual issue,
 32-bit CPU
